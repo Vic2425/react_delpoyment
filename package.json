@@ -1,5 +1,6 @@
 {
   "name": "reminder-app",
+  "homepage": "https://github.com/Vic2425/react_delpoyment",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
